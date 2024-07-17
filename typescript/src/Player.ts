@@ -1,3 +1,5 @@
+// Classe à évaluer
+
 // Class representing the player
 class Player {
     // Name and points of the player
